@@ -1,9 +1,14 @@
 ## Welcome to Cookie Exploit
 
-How to load x10 Cookeis:
+How to load any of the listed exploits:
 
 1. Make sure Bookmarks Bar is shown
-2. Click and drag the x10 Cookies link into your bookmarks bar
-3. Go to Cookie Clicker website and tap the icon to obtain x10 cookies, Enjoy!
+2. Click and drag the link into your bookmarks bar
+3. Go to Cookie Clicker website and tap the icon
+4. Enjoy!
 
-Link: [x10 Cookies](javascript:Game.cookies = Game.cookies * 10)
+Links: 
+[x10 Cookies](javascript:Game.cookies = Game.cookies * 10;)
+[AutoClicker](javascript:var autoclicker = setInterval(function(){ try { document.getElementById('bigCookie').click(); } catch (err) { clearInterval(); } }, 10);)
+[AutoClicker Quit](javascript:clearInterval(autoclicker);)
+[x10 Heavenly Chips](Game.heavenlyChips = Game.heavenlyChips * 10;)
