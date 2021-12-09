@@ -14,5 +14,5 @@ Links:
 
 [AutoClicker Quit](javascript:clearInterval(autoclicker);)
 
-[x10 Heavenly Chips](Game.heavenlyChips = Game.heavenlyChips * 10;)
+[x10 Heavenly Chips](javascript:Game.heavenlyChips = Game.heavenlyChips * 10;)
 
