@@ -1,4 +1,4 @@
-## Welcome to Cookie Exploit
+## Welcome to CronosX
 
 How to load any of the listed exploits:
 
